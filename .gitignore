@@ -91,3 +91,7 @@ target/
 projectflow.txt
 notebooks/creditcard.csv
 notebooks/data.csv
+
+data/*
+
+models/*
